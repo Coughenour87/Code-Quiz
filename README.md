@@ -1,5 +1,9 @@
 # Code-Quiz
 
+![Photo of finished Product](./assets/images/fin.png)
+
+[Deployed Website] https://github.com/Coughenour87/Code-Quiz
+
 * User will click start and at this point, the time will start.
 
 * User will then be brought to the first question, which            contains 4 answers.
