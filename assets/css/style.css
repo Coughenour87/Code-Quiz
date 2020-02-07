@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+a {
+    color: blueviolet;
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    font-weight: 700;
+}
+
+button {
+    background-color: blueviolet;
+    color: cornsilk;
+    font-size: larger;
+    margin-left: 40rem;
+}
+
+
